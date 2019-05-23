@@ -1,5 +1,5 @@
 {
-  "name": "module-1",
+  "name": "dmj-module-1",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,5 @@
   "devDependencies": {
     "after": "0.8.1"
   },
-  "gitHead": "ceec1bee77e831f9e24986b200b2c71835c38b4d"
+  "gitHead": "88e833610bcf5f0c3a91635b1f09a7144d921e80"
 }
